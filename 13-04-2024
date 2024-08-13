@@ -1,0 +1,3 @@
+1. SQL:we to use display the data of names (firstname and lastname) of the members  who are there in the other table without null
+2. Printing Preorder in AVL tree:
+AVL tree a tree which keep track of the height.in this questin we are given a the set of nodes for which we need to print the pre order
